@@ -3,18 +3,18 @@
   "version": "0.2.1",
   "description": "Gatsby starter for advanced blog",
   "main": "n/a",
-  "author": "wonism",
+  "author": "danklut",
   "license": "MIT",
-  "homepage": "https://github.com/wonism/gatsby-advanced-blog",
+  "homepage": "https://github.com/aomcloudenterprise/gatsby-advanced-blog.git",
   "keywords": [
     "gatsby"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wonism/gatsby-advanced-blog.git"
+    "url": "git+https://github.com/aomcloudenterprise/gatsby-advanced-blog.git"
   },
   "bugs": {
-    "url": "https://github.com/wonism/gatsby-advanced-blo/issues"
+    "url": "https://github.com/aomcloudenterprise/gatsby-advanced-blo/issues"
   },
   "peerDependencies": {
     "gatsby": "^2.0.0-beta.92",
