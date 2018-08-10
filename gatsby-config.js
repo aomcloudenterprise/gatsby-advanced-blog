@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Gatsby Advanced Blog',
-    author: 'wonism',
+    author: 'danklut',
   },
   pathPrefix: '/',
   plugins: [
