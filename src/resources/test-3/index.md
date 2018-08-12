@@ -1,6 +1,6 @@
 ---
 type: "portfolio"
-title: "Gatsby Advanced Blog"
+title: "Universal Life Church "
 date: "2018-01-03T00:00:00.000Z"
 path: "/portfolios/portfolio-3/"
 images: [
@@ -9,10 +9,10 @@ images: [
 ]
 ---
 
-# Gatsby Advanced Blog
+# Universal Life Church Kamloops
 
 ## What I did
-- Develop Gatsby Advanced Blog
+- Develop Universal Life Church Blog
 
 ## Libraries / Tools
 - ReactJS
@@ -20,4 +20,4 @@ images: [
 - Redux saga
 - ...
 
-[Go to Web Site →](https://github.com/wonism/gatsby-advanced-blog)
+[Go to Web Site →](https://github.com/aomcloudenterprise/universal-life-church)
