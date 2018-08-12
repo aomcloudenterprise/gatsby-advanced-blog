@@ -1,11 +1,11 @@
 ---
 path: "/post-6/"
-category: "test"
-tags: ["tag"]
-title: "Lorem Ipsum"
-date: "2018-01-06T00:00:00.000Z"
+category: "Search Engine Marketing"
+tags: ["search engine marketing","search engine marketing platform"]
+title: "Search Engine Marketing"
+date: "2018-07-06T00:00:00.000Z"
 summary: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-images: ["images/1.jpg"]
+images: ["images/sem02.jpg"]
 ---
 
 > Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
