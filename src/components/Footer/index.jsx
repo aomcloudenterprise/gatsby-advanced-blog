@@ -23,7 +23,7 @@ const Footer = () => (
       target="_blank"
       rel="noreferrer noopener"
     >
-      wonism
+      aomcloudenterprise
     </a>
   </FooterWrapper>
 );
