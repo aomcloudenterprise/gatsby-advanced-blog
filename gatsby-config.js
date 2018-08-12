@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Advanced Blog',
+    title: 'AOM Cloud Enterprise Blog',
     author: 'danklut',
   },
   pathPrefix: '/',
