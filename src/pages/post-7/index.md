@@ -1,11 +1,11 @@
 ---
 path: "/post-7/"
-category: "test"
-tags: ["tag"]
-title: "Lorem Ipsum"
-date: "2018-01-07T00:00:00.000Z"
+category: "Email Marketing"
+tags: ["email marketing","email marketing platform"]
+title: "Email Marketing"
+date: "2018-07-07T00:00:00.000Z"
 summary: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-images: ["images/1.jpg"]
+images: ["images/email-marketing02.jpg"]
 ---
 
 > Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
