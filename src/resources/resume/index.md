@@ -1,21 +1,23 @@
 ---
 type: "resume"
 title: "Resume"
-date: "2000-01-01T00:00:00.000Z"
+date: "2018-07-01T00:00:00.000Z"
 path: "/resume/"
 ---
 
 ## Experience
-- Engineer at OOO ∙ 2000. 01 ~ Present
-  - Develop something
-  - Maintain something
+- Front End Developer
+  - Develop AOM Cloud Enterprise
+  - Develop AOM Cloud Web Hosting
+  - Develop Universal Life Church Kamloops
+  - Maintain All
 
 ## Education
-- B.S. in Computer Science Engineering at OOO
-  - 2000. 01 ~ 2000. 01
+- B.S. in Cloud Control
+  - 2014. 01 ~ 2018. 06
 
 ## Projects
-- Gatsby Advanced Blog (https://github.com/wonism/gatsby-advanced-blog) ∙ 2000. 01 ~ Present
+- Gatsby Advanced Blog (https://github.com/aomcloudenterprise/gatsby-advanced-blog) ∙ 2000. 01 ~ Present
   - Integrate Redux
     - Use Redux, Redux Saga, Reselect...
 
