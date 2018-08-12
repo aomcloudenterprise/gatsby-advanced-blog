@@ -127,9 +127,9 @@ class PostTemplate extends PureComponent {
       <PostWrapper>
         <Helmet>
           <title>
-            {`WONISM | ${title}`}
+            {`AOM Cloud Enterprise | ${title}`}
           </title>
-          <meta name="og:title" content={`WONISM | ${title}`} />
+          <meta name="og:title" content={`AOM Cloud Enterprise | ${title}`} />
         </Helmet>
         {isNil(image) ? null : (
           <ImageWrapper>
