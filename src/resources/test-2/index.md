@@ -1,7 +1,7 @@
 ---
 type: "portfolio"
-title: "Gatsby Advanced Blog"
-date: "2018-01-02T00:00:00.000Z"
+title: "AOM Cloud Hosting"
+date: "2018-07-02T00:00:00.000Z"
 path: "/portfolios/portfolio-2/"
 images: [
   "test-2/3.png",
@@ -9,10 +9,10 @@ images: [
 ]
 ---
 
-# Gatsby Advanced Blog
+# AOM Cloud Hosting
 
 ## What I did
-- Develop Gatsby Advanced Blog
+- Develop AOM Cloud Hosting
 
 ## Libraries / Tools
 - ReactJS
@@ -20,4 +20,4 @@ images: [
 - Redux saga
 - ...
 
-[Go to Web Site →](https://github.com/wonism/gatsby-advanced-blog)
+[Go to Web Site →](https://github.com/aomcloudenterprise/aom-cloud-hosting)
