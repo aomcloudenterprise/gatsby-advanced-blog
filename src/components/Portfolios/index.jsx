@@ -20,9 +20,9 @@ const Portfolios = ({ data }) => {
     <Wrapper>
       <Helmet>
         <title>
-          WONISM | PORTFOLIOS
+          AOM Cloud Enterprise | PORTFOLIOS
         </title>
-        <meta name="og:title" content="WONISM | PORTFOLIOS" />
+        <meta name="og:title" content="AOM Cloud Enterprise | PORTFOLIOS" />
       </Helmet>
       {map((portfolio) => {
         if (portfolio.node.path !== '/404/') {
