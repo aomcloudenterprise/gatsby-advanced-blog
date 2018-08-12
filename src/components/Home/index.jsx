@@ -20,7 +20,7 @@ const Title = styled.h1`
   height: 1.5em;
   line-height: 1.5em;
   font-size: 48px;
-  font-size: 10vw;
+  font-size: 08vw;
   font-family: 'Kaushan Script';
   text-align: center;
   text-overflow: ellipsis;
@@ -32,11 +32,11 @@ const Home = ({ portfolios }) => (
   <Fragment>
     <Wrapper isHome>
       <Title>
-        Hello, Blog!
+        AOM Cloud Enterprise Blog!
       </Title>
       <Helmet>
         <title>
-          I'm Wonism!
+          AOM Cloud Enterprise!
         </title>
         <meta name="og:title" content="I'm Wonism!" />
       </Helmet>
