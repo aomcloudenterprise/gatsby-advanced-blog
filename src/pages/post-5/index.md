@@ -1,11 +1,11 @@
 ---
 path: "/post-5/"
-category: "test"
-tags: ["tag"]
-title: "Lorem Ipsum"
-date: "2018-01-05T00:00:00.000Z"
+category: "Search Engine Optimization"
+tags: ["search engine optimization","search engine optimization platform"]
+title: "What Good Is Search Engine Optimization"
+date: "2018-07-05T00:00:00.000Z"
 summary: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-images: ["images/1.jpg"]
+images: ["images/seo02.jpg"]
 ---
 
 > Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
