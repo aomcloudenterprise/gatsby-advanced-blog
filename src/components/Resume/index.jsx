@@ -107,9 +107,9 @@ class Resume extends PureComponent {
         <Clearfix>
           <Helmet>
             <title>
-              WONISM | RESUME
+              APM Cloud Enterprise | RESUME
             </title>
-            <meta name="og:title" content="WONISM | RESUME" />
+            <meta name="og:title" content="AOM Cloud Enterprise | RESUME" />
           </Helmet>
           <Clearfix>
             <button type="button" onClick={printPage}>
@@ -125,36 +125,36 @@ class Resume extends PureComponent {
               height="120"
             />
             <h1>
-              wonism
+              AOM Cloud Enterprise
             </h1>
             <p>
-              yocee57@gmail.com
+              aomcloudenterprise@outlook.com
             </p>
           </BasicInformation>
           <SocialInformation>
             <a
-              href="https://github.com/wonism"
+              href="https://github.com/danklut"
               target="_blank"
               rel="noreferrer noopener"
             >
               <FaGithub />
             </a>
             <a
-              href="https://twitter.com/j1ism"
+              href="https://twitter.com/klutmeyer"
               target="_blank"
               rel="noreferrer noopener"
             >
               <FaTwitter />
             </a>
             <a
-              href="https://www.facebook.com/j1.chic"
+              href="https://www.facebook.com/danklutmeyer7"
               target="_blank"
               rel="noreferrer noopener"
             >
               <FaFacebook />
             </a>
             <a
-              href="https://www.linkedin.com/in/wonism/"
+              href="https://www.linkedin.com/in/danklutmeyer/"
               target="_blank"
               rel="noreferrer noopener"
             >
