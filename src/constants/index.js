@@ -5,4 +5,4 @@ exports.POST = 'post';
 exports.PORTFOLIO = 'portfolio';
 exports.RESUME = 'resume';
 
-exports.SITE_URL = 'https://wonism.github.io';
+exports.SITE_URL = 'https://aomcloudenterprise.github.io';
